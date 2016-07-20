@@ -2,7 +2,7 @@
   "name": "mediainfo.js",
   "version": "1.0.0",
   "description": "This is a JavaScript port of the excellent [MediaInfoLib](https://mediaarea.net/en/MediaInfo) and meant to be run directly in a browser. mediainfo.js was created using [Emscripten](http://emscripten.org/).",
-  "main": "post.js",
+  "main": "./build/mediainfo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
